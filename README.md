@@ -1,2 +1,2 @@
 # The-beginning-of-my-journey
-My programming journey startss here
+My programming journey starts here
